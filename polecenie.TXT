@@ -1,0 +1,26 @@
+https://docs.microsoft.com/en-us/dotnet/api/system.drawing.graphics?redirectedfrom=MSDN&view=dotnet-plat-ext-5.0
+
+https://docs.microsoft.com/en-us/dotnet/desktop/winforms/advanced/how-to-draw-a-line-on-a-windows-form?view=netframeworkdesktop-4.8&redirectedfrom=MSDN
+
+https://docs.microsoft.com/en-us/dotnet/desktop/winforms/advanced/how-to-draw-an-outlined-shape?view=netframeworkdesktop-4.8&redirectedfrom=MSDN
+
+https://docs.microsoft.com/en-us/dotnet/desktop/winforms/advanced/how-to-draw-text-on-a-windows-form?view=netframeworkdesktop-4.8&redirectedfrom=MSDN
+
+https://4programmers.net/C_Sharp/Rysowanie_po_Windows_Forms
+
+https://docs.microsoft.com/en-us/dotnet/desktop/winforms/advanced/how-to-create-graphics-objects-for-drawing?view=netframeworkdesktop-4.8&redirectedfrom=MSDN
+
+Stwórz program edytora graficznego:
+Rysowanie za pomocą myszy następujących obiektów (z wypełnieniem lub bez):
+punkt, koło, kwadrat, elipsa, łuk, wycinek koła, wielokąt, krzywa beziera
+Panel z narzędziami
+Wybór aktualnego narzędzia
+Wybór grubości linii
+Wybór koloru
+Gumka
+Operacje
+Czyszczenie ekranu
+Zapis ekranu do pliku graficznego
+Możliwość wgrania pliku graficznego jako tła
+Zmiana rozmiaru okna z obrazem
+Wyświetlanie informacji w StatusBar informacji o wybranym narzędziu, kolorze, grubości linii, aktualnych współrzędnych kursora myszy

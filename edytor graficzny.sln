@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "edytor graficzny", "edytor graficzny.csproj", "{5E9E8768-3B2C-4435-8EC2-6263B840114A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E9E8768-3B2C-4435-8EC2-6263B840114A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9E8768-3B2C-4435-8EC2-6263B840114A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9E8768-3B2C-4435-8EC2-6263B840114A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9E8768-3B2C-4435-8EC2-6263B840114A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A033B2AF-450D-45D7-A0F3-C8AD8806A27F}
+	EndGlobalSection
+EndGlobal
